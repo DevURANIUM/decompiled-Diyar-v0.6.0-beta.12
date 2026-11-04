@@ -1,0 +1,86 @@
+{
+  "technicalEnglish": [
+    "api", "http", "https", "tcp", "udp", "dns", "ssh", "rdp", "sql", "vpn", "vps",
+    "json", "xml", "yaml", "docker", "kubernetes", "git", "github", "dotnet", ".net",
+    "csharp", "linux", "python", "javascript", "typescript", "java", "kotlin", "swift",
+    "android", "ios", "macos", "windows", "ubuntu", "debian", "npm", "pip", "nuget",
+    "aws", "azure", "gcp", "oauth", "jwt", "rest", "soap", "grpc", "graphql",
+    "ctrl", "control", "shift", "alt", "enter", "return", "space", "tab",
+    "backspace", "delete", "escape", "shortcut", "hotkey", "convert", "previous",
+    "word", "undo", "redo", "key", "keyboard", "win"
+  ],
+  "highFrequencyEnglish": [
+    "the", "and", "you", "for", "with", "from", "have", "that", "this", "not",
+    "are", "was", "be", "is", "at", "or", "as", "we", "can", "all",
+    "by", "they", "he", "she", "my", "it", "do", "out", "use", "in",
+    "will", "go", "get", "me", "him", "her", "us", "his", "any", "your",
+    "work", "time", "good", "well", "new", "also", "now", "people", "day", "way",
+    "say", "make", "man", "how", "see", "come", "our", "know", "than", "more",
+    "so", "no", "up", "into", "what", "other", "there", "been", "had", "when"
+  ],
+  "highFrequencyPersian": [
+    "\u0648", "\u062a\u0648", "\u062f\u0631", "\u0628\u0647", "\u0627\u0632", "\u0631\u0627", "\u0628\u0627", "\u06a9\u0647", "\u0627\u06cc\u0646", "\u0627\u0633\u062a", "\u0645\u06cc", "\u0622\u0646",
+    "\u0634\u062f\u0647", "\u062e\u0648\u062f", "\u0628\u0631\u0627\u06cc", "\u0633\u0627\u0644", "\u0628\u0631", "\u06cc\u06a9", "\u062a\u0627", "\u0634\u0648\u062f", "\u0634\u062f", "\u0631\u0648\u0632",
+    "\u0647\u0645", "\u062f\u0648", "\u0645\u0631\u062f\u0645", "\u06a9\u0631\u062f", "\u06a9\u0634\u0648\u0631", "\u0645\u0627", "\u0628\u0648\u062f", "\u062f\u0648\u0644\u062a", "\u0647\u0627", "\u0622\u0646\u0647\u0627",
+    "\u0646\u06cc\u0632", "\u0647\u0631", "\u0627\u0645\u0627", "\u0627\u0646\u062f", "\u062d\u0627\u0644", "\u0634\u0647\u0631", "\u0631\u0627\u0647", "\u062f\u06cc\u06af\u0631", "\u06a9\u0627\u0631", "\u0627\u06af\u0631",
+    "\u062c\u0647\u0627\u0646", "\u06a9\u0646\u062f", "\u0646\u0645\u06cc", "\u0686\u0647", "\u067e\u06cc\u0634", "\u062f\u0627\u062f", "\u062c\u062f\u06cc\u062f", "\u0628\u06cc\u0627\u0646", "\u0632\u0645\u0627\u0646", "\u062a\u0646\u0647\u0627",
+    "\u0645\u0644\u06cc", "\u0641\u0642\u0637", "\u0648\u06cc\u0698\u0647", "\u0637\u0631\u06cc\u0642", "\u0628\u0627\u0632", "\u0628\u0632\u0631\u06af", "\u0628\u062d\u0631\u0627\u0646", "\u062f\u06cc\u062f\u0627\u0631", "\u0628\u0627\u0634\u062f", "\u0634\u0648\u0646\u062f",
+    "\u0633\u0644\u0627\u0645", "\u062e\u0648\u0628", "\u0645\u062a\u0634\u06a9\u0631\u0645", "\u0645\u0645\u0646\u0648\u0646", "\u0628\u0644\u0647", "\u062e\u06cc\u0631", "\u0686\u0637\u0648\u0631", "\u06a9\u062c\u0627", "\u0686\u0631\u0627", "\u0648\u0642\u062a\u06cc",
+    "\u0634\u0645\u0627", "\u0627\u06cc\u0634\u0627\u0646", "\u0647\u0633\u062a", "\u0647\u0633\u062a\u0645", "\u0647\u0633\u062a\u06cc", "\u0647\u0633\u062a\u06cc\u0645", "\u0647\u0633\u062a\u06cc\u062f", "\u0628\u0627\u0634\u0647", "\u0628\u0627\u0634\u0645",
+    "\u062e\u0648\u0628\u0645", "\u062e\u0648\u0628\u06cc", "\u062e\u0648\u0628\u06cc\u0645", "\u062e\u0628\u0631\u0627", "\u0686\u0637\u0648\u0631\u06cc", "\u0645\u0631\u0633\u06cc", "\u062e\u0648\u0627\u0647\u0634", "\u0644\u0637\u0641\u0627", "\u062d\u062a\u0645\u0627",
+    "\u0627\u0645\u0631\u0648\u0632", "\u0641\u0631\u062f\u0627", "\u062f\u06cc\u0631\u0648\u0632", "\u0627\u0644\u0627\u0646", "\u0628\u0639\u062f\u0627", "\u0627\u06cc\u0646\u062c\u0627", "\u0622\u0646\u062c\u0627", "\u06a9\u062f\u0627\u0645", "\u0686\u0646\u062f",
+    "\u062f\u0627\u0631\u0645", "\u062f\u0627\u0631\u06cc", "\u062f\u0627\u0631\u0647", "\u062f\u0627\u0631\u06cc\u0645", "\u062f\u0627\u0631\u06cc\u062f", "\u062f\u0627\u0631\u0646\u062f", "\u0645\u06cc\u06a9\u0646\u0645", "\u0645\u06cc\u06a9\u0646\u06cc", "\u0645\u06cc\u06a9\u0646\u062f",
+    "\u0645\u06cc\u06a9\u0646\u06cc\u0645", "\u0645\u06cc\u06a9\u0646\u06cc\u062f", "\u0645\u06cc\u06a9\u0646\u0646\u062f", "\u0645\u06cc\u0634\u0647", "\u0645\u06cc\u0634\u0648\u062f", "\u0646\u0645\u06cc\u0634\u0647", "\u0646\u0645\u06cc\u062f\u0648\u0646\u0645", "\u0645\u06cc\u062f\u0648\u0646\u0645",
+    "\u0645\u06cc\u062e\u0648\u0627\u0647\u0645", "\u0645\u06cc\u062e\u0648\u0627\u0645", "\u0645\u06cc\u062e\u0648\u0627\u06cc", "\u0645\u06cc\u062a\u0648\u0646\u0645", "\u0645\u06cc\u062a\u0648\u0646\u06cc", "\u0645\u06cc\u062a\u0648\u0627\u0646\u0645", "\u0645\u06cc\u062a\u0648\u0627\u0646\u06cc"
+  ],
+  "currencyPersian": ["\u062a\u0648\u0645\u0627\u0646", "\u0631\u06cc\u0627\u0644"],
+  "additionalPersian": ["\u06a9\u062a\u0627\u0628\u0647\u0627"],
+  "reviewedPersianAdditions": ["\u0646\u0647\u0627\u06cc\u06cc", "\u0627\u06cc\u0646\u0647", "\u0646\u06a9\u0646\u0647", "\u0628\u0647\u0645", "\u0628\u0647\u0634", "\u0628\u0639\u062f\u0634", "\u06cc\u0647", "\u0627\u062f\u0645\u06cc\u0646", "\u067e\u0646\u0644", "\u06a9\u0627\u0646\u0641\u06cc\u06af", "\u0646\u0635\u0628\u06cc"],
+  "shortcutEnglish": [
+    "ctrl", "control", "alt", "shift", "win", "windows", "enter", "return",
+    "space", "tab", "backspace", "delete", "escape"
+  ],
+  "persianPriorityShortWords": [
+    "\u0627\u0645", "\u0627\u062a", "\u0627\u0634", "\u0645\u0646", "\u062a\u0648", "\u0645\u0627",
+    "\u0628\u0627", "\u0628\u0647", "\u062a\u0627", "\u062f\u0631", "\u0627\u0632"
+  ],
+  "persianPrepositionBases": ["\u0628\u0647", "\u0627\u0632"],
+  "persianEnclitics": [
+    "\u0647\u0627", "\u0647\u0627\u06cc", "\u0647\u0627\u06cc\u06cc", "\u0647\u0627\u0633\u062a", "\u0631\u0648", "\u062a\u0631", "\u062a\u0631\u06cc\u0646", "\u0627\u0645", "\u0627\u06cc", "\u0627\u0633\u062a", "\u0627\u06cc\u0645", "\u0627\u06cc\u062f", "\u0627\u0646\u062f"
+  ],
+  "persianSuffixes": [
+    {"form": "\u0647\u0627", "attachesAfter": "any", "minBase": 3, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u0647\u0627\u06cc", "attachesAfter": "any", "minBase": 3, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u0647\u0627\u06cc\u06cc", "attachesAfter": "any", "minBase": 3, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u062a\u0631", "attachesAfter": "any", "minBase": 3, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u062a\u0631\u06cc\u0646", "attachesAfter": "any", "minBase": 3, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u06cc", "attachesAfter": "consonant", "minBase": 4, "zwnj": "never", "mayFollow": ["\u062a\u0631"]},
+    {"form": "\u0645", "attachesAfter": "consonantOrAlef", "minBase": 4, "zwnj": "never", "mayFollow": ["\u0647\u0627", "\u0647\u0627\u06cc", "\u062a\u0631", "\u062a\u0631\u06cc\u0646"]},
+    {"form": "\u062a", "attachesAfter": "consonantOrAlef", "minBase": 4, "zwnj": "never", "mayFollow": ["\u0647\u0627", "\u0647\u0627\u06cc", "\u062a\u0631", "\u062a\u0631\u06cc\u0646"]},
+    {"form": "\u0634", "attachesAfter": "consonantOrAlef", "minBase": 4, "zwnj": "never", "mayFollow": ["\u0647\u0627", "\u0647\u0627\u06cc", "\u062a\u0631", "\u062a\u0631\u06cc\u0646"]},
+    {"form": "\u0645\u0627\u0646", "attachesAfter": "consonantOrAlef", "minBase": 3, "zwnj": "never", "mayFollow": ["\u0647\u0627", "\u0647\u0627\u06cc", "\u062a\u0631", "\u062a\u0631\u06cc\u0646"]},
+    {"form": "\u062a\u0627\u0646", "attachesAfter": "consonantOrAlef", "minBase": 3, "zwnj": "never", "mayFollow": ["\u0647\u0627", "\u0647\u0627\u06cc", "\u062a\u0631", "\u062a\u0631\u06cc\u0646"]},
+    {"form": "\u0634\u0627\u0646", "attachesAfter": "consonantOrAlef", "minBase": 3, "zwnj": "never", "mayFollow": ["\u0647\u0627", "\u0647\u0627\u06cc", "\u062a\u0631", "\u062a\u0631\u06cc\u0646"]},
+    {"form": "\u0645\u0648\u0646", "attachesAfter": "consonantOrAlef", "minBase": 3, "zwnj": "never", "mayFollow": ["\u0647\u0627"]},
+    {"form": "\u062a\u0648\u0646", "attachesAfter": "consonantOrAlef", "minBase": 3, "zwnj": "never", "mayFollow": ["\u0647\u0627"]},
+    {"form": "\u0634\u0648\u0646", "attachesAfter": "consonantOrAlef", "minBase": 3, "zwnj": "never", "mayFollow": ["\u0647\u0627"]},
+    {"form": "\u0627\u0645", "attachesAfter": "he", "minBase": 4, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u0627\u062a", "attachesAfter": "he", "minBase": 4, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u0627\u0634", "attachesAfter": "he", "minBase": 4, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u0627\u06cc", "attachesAfter": "he", "minBase": 4, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u0627\u06cc\u0645", "attachesAfter": "he", "minBase": 4, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u0627\u06cc\u062f", "attachesAfter": "he", "minBase": 4, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u0627\u0646\u062f", "attachesAfter": "he", "minBase": 4, "zwnj": "optional", "mayFollow": []},
+    {"form": "\u06cc\u0645", "attachesAfter": "consonant", "minBase": 3, "zwnj": "never", "mayFollow": []},
+    {"form": "\u06cc\u062f", "attachesAfter": "consonant", "minBase": 3, "zwnj": "never", "mayFollow": []},
+    {"form": "\u0646\u062f", "attachesAfter": "consonant", "minBase": 3, "zwnj": "never", "mayFollow": []},
+    {"form": "\u0631\u0648", "attachesAfter": "any", "minBase": 3, "zwnj": "optional", "mayFollow": ["\u0647\u0627", "\u062a\u0631"]},
+    {"form": "\u0647", "attachesAfter": "consonant", "minBase": 4, "zwnj": "never", "mayFollow": ["\u062a\u0631"]}
+  ],
+  "persianFunctionWords": [
+    "\u0628\u0647", "\u0627\u0632", "\u062f\u0631", "\u0628\u0627", "\u0628\u0631\u0627\u06cc", "\u062a\u0627",
+    "\u0628\u0631", "\u0628\u06cc", "\u0631\u0648\u06cc", "\u062a\u0648\u06cc", "\u0632\u06cc\u0631", "\u0628\u062f\u0648\u0646",
+    "\u0628\u06cc\u0646", "\u062f\u0631\u0628\u0627\u0631\u0647", "\u06a9\u0647", "\u0627\u06cc\u0646", "\u0622\u0646", "\u0647\u0631",
+    "\u06cc\u06a9", "\u0686\u0646\u062f", "\u0647\u0645\u06cc\u0646", "\u0647\u0645\u0627\u0646", "\u0647\u06cc\u0686", "\u0647\u0645\u0647"
+  ]
+}

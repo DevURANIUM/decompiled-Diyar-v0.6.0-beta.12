@@ -1,0 +1,124 @@
+COCO TYPING PROPRIETARY END-USER LICENSE
+Version 1.0 - 14 August 2026
+
+Copyright (c) 2026 IranUX. All rights reserved.
+
+IMPORTANT: READ THIS LICENSE BEFORE USING COCO TYPING.
+
+This license applies to Diyar version 0.3.0-alpha.1 and later releases that
+include this license (the "Software"). By downloading, installing, accessing, or
+using the Software, you agree to these terms. If you do not agree, do not use the
+Software.
+
+1. FREE END-USER LICENSE
+
+IranUX grants you a limited, revocable, non-exclusive, non-transferable license,
+without a license fee, to download, install, and use the object-code version of
+the Software for your own personal use or your organization's internal business
+use. You may keep a reasonable backup copy of an installer you lawfully received.
+
+The Software is free for clients to use. It is not open-source software and is
+not licensed for redistribution, resale, modification, or incorporation into
+another product or service.
+
+2. RESTRICTIONS
+
+Unless IranUX gives you prior written permission, you must not, and must not help
+another person or organization to:
+
+a. copy the Software, source code, binaries, user interface, branding, artwork,
+   documentation, dictionaries, test corpora, or other IranUX-owned materials,
+   except for the installation and backup copies expressly allowed above;
+b. modify, adapt, translate, create derivative works from, or remove ownership
+   notices from the Software or IranUX-owned materials;
+c. distribute, publish, sublicense, sell, resell, rent, lease, lend, host, make
+   available as a service, or otherwise transfer the Software or any substantial
+   part of it;
+d. reverse engineer, decompile, disassemble, bypass technical restrictions, or
+   attempt to derive source code, except only to the limited extent that
+   applicable law expressly permits despite this restriction;
+e. use IranUX source code, product assets, documentation, non-public technical
+   information, or substantially copied implementation details to create,
+   train, benchmark, or improve another product or commercial service;
+f. use the names Diyar or IranUX, the Diyar logo, or confusingly similar
+   branding without prior written permission; or
+g. represent that IranUX has approved, sponsored, or endorsed another product.
+
+Attribution, citation, or a reference to Diyar does not by itself grant
+permission. Any reuse that requires permission under this license requires both
+clear attribution and prior written approval from IranUX.
+
+3. OWNERSHIP AND RESERVATION OF RIGHTS
+
+IranUX and its licensors retain all rights, title, and interest in the Software
+and IranUX-owned materials, including all applicable copyright, trademark, and
+other intellectual-property rights. No rights are granted by implication,
+estoppel, or otherwise. All rights not expressly granted are reserved.
+
+Copyright protects the original software code and other original expression. It
+does not by itself grant exclusive rights over abstract ideas, concepts,
+procedures, systems, algorithms, or methods of operation. Nothing in this
+license claims rights that applicable law does not recognize.
+
+4. THIRD-PARTY MATERIALS
+
+Third-party software, fonts, models, datasets, and dictionary sources included
+with or used by the Software remain governed by their respective licenses and
+notices. Those materials are identified in THIRD_PARTY_NOTICES.md and in the
+license files distributed with the Software. This license does not restrict
+rights granted directly by a third-party licensor.
+
+5. UPDATES AND ONLINE SERVICES
+
+Updates may add, remove, or change functionality and may be subject to updated
+terms. Optional third-party services, including cloud translation providers,
+are also subject to their providers' terms, privacy policies, availability, and
+fees. IranUX does not grant rights to those services.
+
+6. TERMINATION
+
+This license terminates automatically if you breach it. On termination, you
+must stop using the Software and delete all copies under your control, except
+where retention is required by law. Sections 2 through 9 survive termination.
+
+7. DISCLAIMER OF WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS" AND
+"AS AVAILABLE", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS,
+IMPLIED, OR STATUTORY, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, AND UNINTERRUPTED OPERATION. SOME
+JURISDICTIONS DO NOT ALLOW CERTAIN DISCLAIMERS, SO SOME OF THESE TERMS MAY NOT
+APPLY TO YOU.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IRANUX AND ITS CONTRIBUTORS WILL NOT BE
+LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OR GOODWILL, ARISING
+FROM OR RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY. IRANUX'S
+TOTAL LIABILITY FOR ALL CLAIMS RELATING TO THE SOFTWARE WILL NOT EXCEED THE
+AMOUNT YOU PAID IRANUX FOR THE SOFTWARE DURING THE TWELVE MONTHS BEFORE THE
+EVENT GIVING RISE TO THE CLAIM. BECAUSE THE END-USER LICENSE IS NORMALLY FREE,
+THAT AMOUNT MAY BE ZERO. MANDATORY CONSUMER RIGHTS REMAIN UNAFFECTED.
+
+9. ENTIRE AGREEMENT AND SEVERABILITY
+
+This license and the third-party notices are the entire agreement concerning
+the Software unless IranUX signs a separate written agreement with you. If a
+provision is unenforceable, it will be enforced to the maximum lawful extent
+and the remaining provisions will continue in effect. A waiver must be in
+writing and applies only to the specific instance stated.
+
+10. PERMISSION REQUESTS
+
+For redistribution, commercial licensing, source-code use, product integration,
+or any other permission, contact IranUX through:
+
+https://www.iranux.site
+
+PREVIOUS RELEASES
+
+Versions distributed with the MIT License remain governed by the license that
+accompanied those versions. This proprietary license applies only to releases
+that include it and does not retroactively withdraw permissions already granted
+for earlier copies.

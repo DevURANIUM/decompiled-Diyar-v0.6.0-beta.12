@@ -1,0 +1,35 @@
+# ==============================================================================
+# Git Ignore Configuration for Diyar Security Analysis Repository
+# ==============================================================================
+
+# GitHub file size limit is 100 MB. Exclude oversized binary packages:
+*.exe.sha256
+Diyar-*.exe
+container.cab
+*.cab
+extracted_msi/
+extracted_raw/
+extracted_cab/
+extracted_msi_tables/
+
+# Build & compiler output directories
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE & Editor temporary files
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
